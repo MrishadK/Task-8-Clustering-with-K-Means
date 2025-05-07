@@ -24,6 +24,7 @@
 | Metric | Value |
 |--------|-------|
 | Silhouette Score | ~0.43 (on Iris dataset with 3 clusters) |
+
 ![image](https://github.com/user-attachments/assets/3916c06c-61a3-4667-9691-137a3ed72987)
 
 
